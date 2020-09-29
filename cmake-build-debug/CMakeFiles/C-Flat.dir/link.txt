@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/C-Flat.dir/main.cpp.o CMakeFiles/C-Flat.dir/cf.cpp.o  -o C-Flat 

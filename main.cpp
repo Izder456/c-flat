@@ -19,5 +19,11 @@ int main() {
 	cflat cf;
 	printf("line 1");
 	cf.coutln();
-	printf("line 3");
+	printf("line 2");
+	cf.coutln();
+
+	char string[] = "test";
+	std::cout << cf.lens(string);
+
+	return(0);
 }

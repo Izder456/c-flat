@@ -1,0 +1,3 @@
+/home/izder456/Projects/c-flat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/izder456/Projects/c-flat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/izder456/Projects/c-flat/cmake-build-debug/CMakeFiles/C-Flat.dir

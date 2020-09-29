@@ -3,7 +3,7 @@
 // Author   : izder456
 // License  : GPLv3
 // Version  : a0.1
-// Lauguage : C++ header
+// Language : C++ header
 ///////////////////////////////////////
 
 namespace N

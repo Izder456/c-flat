@@ -6,19 +6,23 @@
 // Lauguage : C++
 ///////////////////////////////////////
 
-using namespace std;
 #include <math.h>
 #include <stdio.h>
 #include <iostream>
 #include <cstddef>
 #include <type_traits>
+#include "cf.h" // header in local directory
+#include <iostream> // header in standard library
+using namespace std;
+using namespace N;
+
 //newline function
-void coutln () {
+void cflat::coutln() {
 	cout << endl;
 }
 
 //length function of string
-int lens (char * s) {
+int cflat::lens(char * s) {
 	char * t;
 	int size = 0;
     for (t = s; *t != '\0'; t++) {

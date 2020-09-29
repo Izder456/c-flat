@@ -1,7 +1,7 @@
 ///////////////////////////////////////
 // Name     : C-Flat header
 // Author   : izder456
-// License  : Simplified 2-Clause BSD
+// License  : Simplified 3-Clause BSD
 // Version  : a0.1
 // Lauguage : C++ header
 ///////////////////////////////////////

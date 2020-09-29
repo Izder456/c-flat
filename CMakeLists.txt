@@ -1,3 +1,5 @@
+project(C-Flat)
+
 
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
 # Above line indicates to Cmake that minimum version 2.8 is required.

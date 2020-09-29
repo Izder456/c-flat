@@ -1,7 +1,7 @@
 ///////////////////////////////////////
 // Name     : C-Flat example program
 // Author   : izder456
-// License  : Simplified 3-Clause BSD
+// License  : GPLv3
 // Version  : a0.1
 // Lauguage : C++
 ///////////////////////////////////////

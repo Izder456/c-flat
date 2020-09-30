@@ -16,7 +16,7 @@ namespace N
 		//length function of string
 		int lens(char* s);
 		//proper print function(s)
-		void print2(char * s1, std::basic_string<char> s2);
+		void print2(char * s1, char * s2);
 		void print3(char * s1, char * s2, char * s3);
 	};
 };

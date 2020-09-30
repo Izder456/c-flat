@@ -32,7 +32,7 @@ int cflat::lens(char * s) {
 	return size;
 }
 
-void cflat::print2(char * s1, basic_string<char> s2) {
+void cflat::print2(char * s1, char * s2) {
     cout << s1 << s2;
 }
 

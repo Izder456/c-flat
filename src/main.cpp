@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <cstddef>
+#include <cstring>
 #include <type_traits>
 #include "cf.h"
 #include <iostream>
@@ -31,8 +32,6 @@ int main() {
     cf.coutln();
     cf.print3("1, ","2, ","3");
     cf.coutln();
-    cf.print2("test : ", to_string(cf.lens(string)));
-
 
 	return(0);
 }

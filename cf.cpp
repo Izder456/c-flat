@@ -8,11 +8,12 @@
 
 #include <math.h>
 #include <stdio.h>
+#include <cstring>
 #include <iostream>
 #include <cstddef>
 #include <type_traits>
 #include "cf.h" // header in local directory
-#include <iostream> // header in standard library
+#include <iostream>// header in standard library
 using namespace std;
 using namespace N;
 
@@ -29,5 +30,13 @@ int cflat::lens(char * s) {
         size++;
     };
 	return size;
+}
+
+void cflat::print2(char * s1, basic_string<char> s2) {
+    cout << s1 << s2;
+}
+
+void cflat::print3(char * s1, char * s2, char * s3) {
+    cout << s1 << s2 << s3;
 }
 

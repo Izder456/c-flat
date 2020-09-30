@@ -14,6 +14,7 @@
 #include "cf.h"
 #include <iostream>
 using namespace N;
+using namespace std;
 
 int main() {
 	cflat cf;
@@ -23,7 +24,15 @@ int main() {
 	cf.coutln();
 
 	char string[] = "test";
-	std::cout << cf.lens(string);
+	printf("%d", cf.lens(string));
+
+	cf.coutln();
+    cf.print2("1, ","2");
+    cf.coutln();
+    cf.print3("1, ","2, ","3");
+    cf.coutln();
+    cf.print2("test : ", to_string(cf.lens(string)));
+
 
 	return(0);
 }

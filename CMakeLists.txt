@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 2.8.9 FATAL_ERROR)
 project(directory_test)
 set(CMAKE_BUILD_TYPE Release)
 SET(CMAKE_CXX_FLAGS "-std=c++2a")
+SET(CMAKEE CC FLAGS "-std=c18")
 # In the above line we declared a variable sampleName and assigned it a value MyApp. We will make use of the same later.project(PrjMyApp)
 # here we define the project or solution (for visual studio) name
 # In following lines we try to find out the packages of additional libraries, if reqd. Here we are trying to locate PCL and mrpt library.
